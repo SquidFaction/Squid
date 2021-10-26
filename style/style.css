@@ -7,7 +7,7 @@ body{
 
 .top-page{
     border: black;
-    background-color: cyan;
+    background: url("https://squidfaction.github.io/Squid/image/squid.gif");
     background-size:cover;
     text-align: center;
 
